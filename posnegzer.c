@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    long int number;
+     int number;
     printf("enter a number");
     scanf("%d",&number);
     if(number<0)
